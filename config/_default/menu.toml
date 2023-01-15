@@ -22,11 +22,3 @@ url = "https://twitter.com"
 
 [social.params]
 icon = "brand-twitter"
-
-[[social]]
-identifier = "facebook"
-name = "Twitter"
-url = "https://facebook.com"
-
-[social.params]
-icon = "brand-facebook"
